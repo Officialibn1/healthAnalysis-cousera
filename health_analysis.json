@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://www.niddk.nih.gov/-/media/Images/Health-Information/Diagnostic-Tests/ThyroidAnatomy_300x342.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://stepscan.com/wp-content/uploads/2022/06/diabetes-stats-report-724px-CDC-image.png",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://static.vecteezy.com/system/resources/previews/004/899/695/non_2x/a-woman-with-high-blood-pressure-the-girl-measures-the-pressure-with-a-tonometer-vector.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
